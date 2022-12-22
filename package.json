@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/TranHaiBinh061296/phone-store",
-  "name": "phone-store",
+  "homepage": "https://github.com/TranHaiBinh061296/phone-store-reactjs",
+  "name": "phone-store-reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
