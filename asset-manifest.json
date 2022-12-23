@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/phone-store-reactjs/static/css/main.198dffb5.css",
-    "main.js": "/phone-store-reactjs/static/js/main.3a765abb.js",
+    "main.css": "/phone-store-reactjs/static/css/main.b2cc5471.css",
+    "main.js": "/phone-store-reactjs/static/js/main.b2f8a5f1.js",
     "static/media/fa-solid-900.ttf": "/phone-store-reactjs/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/nophoto.png": "/phone-store-reactjs/static/media/nophoto.f433b823eec0301ec373.png",
     "static/media/fa-brands-400.ttf": "/phone-store-reactjs/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.ttf": "/phone-store-reactjs/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/phone-store-reactjs/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/phone-store-reactjs/index.html",
-    "main.198dffb5.css.map": "/phone-store-reactjs/static/css/main.198dffb5.css.map",
-    "main.3a765abb.js.map": "/phone-store-reactjs/static/js/main.3a765abb.js.map"
+    "main.b2cc5471.css.map": "/phone-store-reactjs/static/css/main.b2cc5471.css.map",
+    "main.b2f8a5f1.js.map": "/phone-store-reactjs/static/js/main.b2f8a5f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.198dffb5.css",
-    "static/js/main.3a765abb.js"
+    "static/css/main.b2cc5471.css",
+    "static/js/main.b2f8a5f1.js"
   ]
 }
